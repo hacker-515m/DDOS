@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo chmod +x *
-sudo bash star
+bash star
 echo -e "\e[32m nm                                             
             *@@@***@@m  *@@@***@@m    mm@**@@m   m@***@m@
               @@    *@@m  @@    *@@mm@@*    *@@mm@@    *@
